@@ -11,7 +11,7 @@ Administrador | Analista Desenvolvedor | Designer
 
 <a href="https://www.github.com/dartanham" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dartanham?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/dartanhammm" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/dartanhammm?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/dartanham_adm?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/dartanham" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/dartanham?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
